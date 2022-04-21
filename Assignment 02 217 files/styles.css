@@ -1,0 +1,104 @@
+﻿
+/*6*/
+html {
+	background-color: rgb(49, 158, 134);
+}
+
+/*7*/
+body {
+	background-color: rgb(26, 122, 101);
+	font-family: Verdana, Geneva, sans-serif;	
+}
+
+/*8*/
+h1, h2 {
+	font-weight: normal;
+	text-align: center;
+}
+
+/*9*/
+#headerParagraph {
+	background-color: rgb(49, 158, 134);
+}
+
+/*10*/
+nav a {
+	text-decoration: none;
+}
+
+/*11*/
+body > header  {
+	background-color: rgb(92,160,161);
+}
+
+/*12*/
+body > header > h1 {
+	font-family: cursive;
+	color: rgb(5, 77, 68);
+	font-size: 4vw;
+	margin: 0px;
+	padding: 10px 20px;
+	font-weight: bolder;
+}
+
+/*13*/
+body > header > h1 > span {
+	color: black;
+}
+
+/*14*/
+nav#mainLinks a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/*15*/
+nav#mainLinks a:visited, nav#mainLinks a:link {
+	background-color: rgba(92,160,161,0.5);
+	color: black;
+	font-weight: bold;
+}
+
+/*16*/
+nav#mainLinks a:hover, nav#mainLinks a:active {
+	background-color: rgba(92,160,161);
+	color: firebrick;
+	font-weight: bold;
+}
+
+/*17*/
+section{
+	background-color: rgb(230,205,170);
+	background-image: url("bg.jpg");
+}
+
+/*18*/
+section header h1 {
+	font-size: 2.2em;
+	padding-left: 10px;	
+}
+
+/*19*/
+article h2 {
+	font-size: 1.4em;
+	font-weight: bolder;
+}
+
+/*20*/
+#mainParagraph {
+	text-align: justify;
+}
+
+/*21*/
+article p:first-of-type::first-letter {
+	font-size: 2em;
+}
+
+/*22*/
+footer {
+	background-color: rgb(49, 158, 134);
+	text-align: center;
+	font-weight: 900;
+	color: black;
+	padding: 1px;
+}
