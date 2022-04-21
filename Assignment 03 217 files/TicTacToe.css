@@ -1,0 +1,151 @@
+/*Step 2*/div{
+    margin: 0px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+/*Step 3*/body{
+    background-color: teal;
+    width: 650opx;
+    margin: auto;
+}
+
+
+
+
+
+
+
+/*Step 4*/table{
+    margin: auto;
+}
+
+
+
+
+
+
+
+/*Step 5*/p{
+    font-size: 16px;
+    font-family: cursive;
+}
+
+
+
+
+
+
+/*Step 6*/ #tictactoe{
+    text-align: center;
+    margin: auto;
+    border: black solid 2px;
+    background-color: cadetblue;
+}
+
+
+
+
+
+
+
+/*Step 7*/#playerx{
+    float: left;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 32px;
+    font-family: cursive;
+    background-color: teal;
+    padding: 10px;
+    border: black solid 1px;
+    border-radius: 10px;
+    box-shadow: 0px 9px black;
+    
+
+}
+
+
+
+
+
+
+/*Step 8*/#playero{
+    float: right;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 32px;
+    font-family: cursive;
+    background-color: teal;
+    padding: 10px;
+    border: black solid 1px;
+    border-radius: 10px;
+    box-shadow: 0px 9px black;
+}
+
+
+
+
+
+
+/*Step 9*/i{
+    text-align: center;
+    font-size: 32px;
+    font-family: cursive;
+}
+
+
+
+
+
+
+/*Step 10*/.cell:hover{
+    background-color: darkred;
+    text-align: center;
+}
+
+
+
+
+
+
+/*Step 11*/h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 45px;
+}
+
+
+
+
+
+
+/*Step 12*/.cell{
+    width: 80px;
+    height: 80px;
+    border: black solid 5px;
+    font-size: 46pt;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
+
+
+/*Step 13*/input{
+    background-color: cadetblue;
+    font-size: 12px;
+    font-family: cursive;
+    border: black solid 1px;
+    font-weight: 700;
+    border-radius: 10px;
+    box-shadow: 0px 9px black;
+    height: 25px;
+}
